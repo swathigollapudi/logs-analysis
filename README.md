@@ -28,4 +28,4 @@ The database includes three tables:
 - Articles table
 - Log table
 
-To execute the program, run `python3 newsdata.py` from the command line.
+To execute the program, run `python3 newsdata.py` from the command line
